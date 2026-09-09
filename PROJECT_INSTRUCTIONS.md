@@ -1,0 +1,1 @@
+Always retrieve and follow `/AGENTS.md` from the `slowizzm/Buffer` repository before doing any work in this project. `AGENTS.md` is the sole orchestrator; do not duplicate, reinterpret, or maintain parallel project instructions elsewhere.

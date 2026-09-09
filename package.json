@@ -1,0 +1,16 @@
+{
+  "name": "buffer-social-publisher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Agent-friendly multi-account Buffer social publisher for personal and Warp the Surface identities.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "publish": "node src/index.js publish",
+    "dry-run": "node src/index.js publish --dry-run",
+    "channels": "node src/index.js channels",
+    "test": "node --test"
+  }
+}
